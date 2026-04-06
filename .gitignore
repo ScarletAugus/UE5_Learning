@@ -1,0 +1,37 @@
+# Unreal Engine 5 .gitignore
+
+# Compiled binaries
+Binaries/
+Plugins/*/Binaries/
+
+# Build intermediates
+Intermediate/
+Plugins/*/Intermediate/
+DerivedDataCache/
+
+# Saved data (logs, autosaves, configs generated at runtime)
+Saved/
+
+# Build output logs
+build_stdout.txt
+build_stderr.txt
+
+# Visual Studio / Rider files
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# CodeBuddy
+.codebuddy/
