@@ -34,4 +34,5 @@ Thumbs.db
 Desktop.ini
 
 # CodeBuddy
-.codebuddy/
+.codebuddy/*
+!.codebuddy/instructions.md
