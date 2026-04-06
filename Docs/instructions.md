@@ -24,7 +24,7 @@
   - 技能编辑器 → 打开 `Content/Skills/Editor/EUW_SkillEditor`
   - 技能设置（开发中）
 
-> 📄 **详细架构文档**：[`Docs/SkillSystem_Architecture.md`](../Docs/SkillSystem_Architecture.md)
+> 📄 **详细架构文档**：[`Docs/SkillSystem_Architecture.md`](SkillSystem_Architecture.md)
 
 
 ## 重要决策记录
@@ -35,5 +35,3 @@
 ## 其他备注
 - 编译命令：`D:\UE_5.7\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.exe testEditor Win64 Development -Project=D:\ScarletAugus\test\test.uproject -WaitMutex`
 - 编辑器运行时不能用 UBT 编译，需关闭编辑器或使用 Live Coding (Ctrl+Alt+F11)
-
-

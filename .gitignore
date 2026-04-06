@@ -33,6 +33,5 @@ build_stderr.txt
 Thumbs.db
 Desktop.ini
 
-# CodeBuddy
-.codebuddy/*
-!.codebuddy/instructions.md
+# CodeBuddy (local only, not tracked)
+.codebuddy/
